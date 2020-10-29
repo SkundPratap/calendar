@@ -10,7 +10,7 @@ This project uses the [MERN stack](https://www.geeksforgeeks.org/mern-stack/):
 ## Prerequisites
 1. Install [Node.js](https://nodejs.org) and [MongoDB](https://www.mongodb.com)
 2. Install [React](https://reactjs.org)
-3. Install all the dependencies in the server folder: `npm install`
+3. Install all the dependencies in the root folder: `npm install`
 4. Install all the dependencies in the client folder: `npm install`
 5. Install nodemon in the root folder: `npm i -g nodemon --save`
 6. Run the server: `nodemon run server` 
